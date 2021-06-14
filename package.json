@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "ts-node": "ts-node --",
+    "ts-node-skip-check": "ts-node --transpile-only --",
     "esbuild": "node --require esbuild-register --"
   },
   "keywords": [],
